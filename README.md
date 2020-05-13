@@ -1,5 +1,4 @@
-# Econometrics Sandbox: Event Study & Co. 
-
+# Econometrics Sandbox
 This repository contains the code that creates the dashboards referenced in the “Econometrics Sandbox” blogpost series by Florence Kondylis and John Loeser published on [Development Impact blog](https://blogs.worldbank.org/impactevaluations):
 
 - [Event Study Designs & Co.](https://blogs.worldbank.org/impactevaluations/econometrics-sandbox-event-study-designs-co) - October 16, 2019
