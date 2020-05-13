@@ -1,2 +1,18 @@
-# econometrics-sandbox
-This repository contains the code that creates the dashboards references in the “Econometrics Sandbox” blogpost series publish in the Development Impact blog (https://blogs.worldbank.org/impactevaluations)
+# Econometrics Sandbox: Event Study & Co. 
+
+This repository contains the code that creates the dashboards referenced in the “Econometrics Sandbox” blogpost series by Florence Kondylis and John Loeser published on [Development Impact blog](https://blogs.worldbank.org/impactevaluations):
+
+- [Event Study Designs & Co.](https://blogs.worldbank.org/impactevaluations/econometrics-sandbox-event-study-designs-co) - October 16, 2019
+- [Attrition Strikes Back](https://blogs.worldbank.org/impactevaluations/econometrics-sandbox-attrition-strikes-back) - November 13, 2019
+- [Randomization Inference for Event Study Designs](https://blogs.worldbank.org/impactevaluations/econometrics-sandbox-randomization-inference-event-study-designs) - April 30, 2020
+
+## 
+<div class = "row">
+  <div class = "column" style = "width:30%">
+    <img src="img/wb.png" align = "left">
+  </div>
+  <div class = "column" style = "width:30%">
+    <img src="i2i.png" align = "right">
+  </div>
+</div>
+ 
