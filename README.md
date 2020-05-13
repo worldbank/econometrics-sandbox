@@ -12,7 +12,7 @@ This repository contains the code that creates the dashboards referenced in the 
     <img src="img/wb.png" align = "left">
   </div>
   <div class = "column" style = "width:30%">
-    <img src="i2i.png" align = "right">
+    <img src="img/i2i.png" align = "right">
   </div>
 </div>
  
